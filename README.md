@@ -25,6 +25,7 @@ AdventJS es una colección de retos de programación con temática navideña, in
 ### Python
 - [Reto #7:](https://adventjs.dev/challenges/2024/7) 👹 El ataque del Grinch (Nivel: 🟡 Medio)
 - [Reto #12:](https://adventjs.dev/challenges/2024/12) 💵 ¿Cuánto cuesta el árbol? (Nivel: 🟢 Fácil)
+- [Reto #13:](https://adventjs.dev/challenges/2024/13) 🤖 ¿El robot está de vuelta? (Nivel: 🟡 Medio)
 
 ## 🛠️ Tecnologías Utilizadas
 - JavaScript

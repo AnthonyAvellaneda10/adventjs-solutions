@@ -21,13 +21,15 @@ AdventJS es una colección de retos de programación con temática navideña, in
 - [Reto #8:](https://adventjs.dev/challenges/2024/8) 🦌 La carrera de renos (Nivel: 🟢 Fácil)
 - [Reto #10:](https://adventjs.dev/challenges/2024/10) 👩‍💻 El ensamblador élfico (Nivel: 🟡 Medio)
 - [Reto #11:](https://adventjs.dev/challenges/2024/11) 🏴‍☠️ Nombres de archivos codificados (Nivel: 🟢 Fácil)
-- [Reto #15:](https://adventjs.dev/challenges/2024/15) ✏️ Dibujando tablas (Nivel: 🟢 Fácil)
+- [Reto #15:](https://adventjs.dev/challenges/2024/15) ✏️ Dibujando tablas (Nivel: d Fácil)
 
 ### Python
 - [Reto #7:](https://adventjs.dev/challenges/2024/7) 👹 El ataque del Grinch (Nivel: 🟡 Medio)
 - [Reto #12:](https://adventjs.dev/challenges/2024/12) 💵 ¿Cuánto cuesta el árbol? (Nivel: 🟢 Fácil)
 - [Reto #13:](https://adventjs.dev/challenges/2024/13) 🤖 ¿El robot está de vuelta? (Nivel: 🔴 Difícil)
 - [Reto #14:](https://adventjs.dev/challenges/2024/14) 🦌 Acomodando los renos (Nivel: 🟢 Fácil)
+- [Reto #16:](https://adventjs.dev/challenges/2024/16) ❄️ Limpiando la nieve del camino (Nivel: 🟢 Fácil)
+- [Reto #17:](https://adventjs.dev/challenges/2024/17) 💣 Busca las bombas del Grinch (Nivel: 🟡 Medio)
 
 
 ## 🛠️ Tecnologías Utilizadas
